@@ -1,5 +1,6 @@
 # Node.js Starter Overview
 
+A ce stade, cette application est vide et ne sert strictement à rien, sauf pour test avec BlueMix.
 The Node.js Starter demonstrates a simple, reusable Node.js web application based on the Express framework.
 
 ## Run the app locally
